@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorLayout">#F5F5F5</color>
+    <color name="colorLayoutSub">#FAFBFC</color>
+    <color name="colorDefaultFrontCard">#8BC34A</color>
+    <color name="colorDefaultBackCard">#AED581</color>
 </resources>

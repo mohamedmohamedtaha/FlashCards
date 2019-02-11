@@ -24,9 +24,15 @@ Android project app to help explain and practice Room and Android Architecture.
 * Object Oriented Design.
 
 ## Screenshots
+### Main App Screen
 ![preview](../master/main.png "FlashCards")
+### Card List Screen
 ![preview](../master/cards.png "FlashCards")
+### Practice Card Screen
 ![preview](../master/practicecard.png "FlashCards")
+### Animaiton Image for Practice
+![preview](../master/practiceanimaiton.gif "FlashCards")
+
 
 
 ## Authors
